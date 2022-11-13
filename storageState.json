@@ -1,0 +1,137 @@
+{
+  "cookies": [
+    {
+      "name": "REFRESH-jvkik2henju47mybfgxem3fd23iooj3q",
+      "value": "%7B%22ResponseType%22%3A%22token%22%2C%22ClientID%22%3A%22WebAccount%22%2C%22GrantType%22%3A%22refresh_token%22%2C%22RefreshToken%22%3A%22kcjlyn443jopxadst6sjd3zbxfhndyjh%22%2C%22UID%22%3A%22jvkik2henju47mybfgxem3fd23iooj3q%22%2C%22RedirectURI%22%3A%22https%3A%5C%2F%5C%2Fmail.proton.me%22%7D",
+      "domain": "account.proton.me",
+      "path": "/api/auth/refresh",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "AUTH-jvkik2henju47mybfgxem3fd23iooj3q",
+      "value": "sq2auizgmqoq5aueooh67mfv7s2irgtn",
+      "domain": "account.proton.me",
+      "path": "/api/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "Session-Id",
+      "value": "Y3Av@76zt3JzaSOkYXzbZQAAAEM",
+      "domain": ".proton.me",
+      "path": "/",
+      "expires": 1676072781.956017,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Tag",
+      "value": "default",
+      "domain": "account.proton.me",
+      "path": "/",
+      "expires": 1676072781.956123,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Theme",
+      "value": "0",
+      "domain": ".proton.me",
+      "path": "/",
+      "expires": 1702856780.937811,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Tag",
+      "value": "default",
+      "domain": "account-api.proton.me",
+      "path": "/",
+      "expires": 1676072756.850924,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Features",
+      "value": "ReferralProgramSignup:A",
+      "domain": ".proton.me",
+      "path": "/",
+      "expires": 1702856780.937418,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Tag",
+      "value": "redirect",
+      "domain": "account.protonmail.com",
+      "path": "/",
+      "expires": 1676072780.523479,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "Tag",
+      "value": "redirect",
+      "domain": "mail.protonmail.com",
+      "path": "/",
+      "expires": 1676072780.671527,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "Tag",
+      "value": "redirect",
+      "domain": "calendar.protonmail.com",
+      "path": "/",
+      "expires": 1676072780.762831,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "Tag",
+      "value": "redirect",
+      "domain": "drive.protonmail.com",
+      "path": "/",
+      "expires": 1676072780.901716,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://account.proton.me",
+      "localStorage": [
+        {
+          "name": "cs",
+          "value": "1"
+        },
+        {
+          "name": "default-persistent",
+          "value": "false"
+        },
+        {
+          "name": "dont-ask-desktop-notification",
+          "value": "false"
+        },
+        {
+          "name": "ps-0",
+          "value": "{\"UserID\":\"gZjAsnOpkxm6MeyHO-d1MSGVaJsXP8qCmDh2zdEJlMkFkDqWru2QRDracRgz84ucnpPPbxBDdmYWtcNp-3Ymtg==\",\"UID\":\"jvkik2henju47mybfgxem3fd23iooj3q\",\"isSubUser\":false,\"blob\":\"BoGJs75IK9nsypUnTyoDFRXPVEJPGqp7bWh3X5myB73I4cf9tNhclnxVwhcikGKrNfyj70vJscFQXX5mHLdyykkFzsIfZRfoODQAbsamhbVT\",\"persistent\":false,\"trusted\":false}"
+        }
+      ]
+    }
+  ]
+}
